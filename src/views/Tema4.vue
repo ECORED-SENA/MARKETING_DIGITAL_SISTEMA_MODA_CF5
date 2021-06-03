@@ -28,73 +28,117 @@
     .row.mb-4
       .col-1
       .col-10
-        .tarjeta.tarjeta--azul.p-4.mb-5.bloque8
+        .tarjeta.tarjeta--azul.mb-5.bloque8
           SlyderA
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img04.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 Conectar con los clientes  
                   p Conocer a los clientes y trabajar para que se sientan a gusto con la marca.
-                  br
-                  br
-                  br
             
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img05.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 Crear una experiencia 
                   p Esta es una manera en que el cliente asocia la marca con buenas experiencias que le ofrecen un valor agregado.
-                  br
-                  br
-                  br
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img06.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 Mantener el contacto  
                   p Entender que en algún momento se necesitará de los clientes como ellos de la marca. No debes perderlos de vista.
-                  br
-                  br
-                  br
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img07.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 Personalizar la comunicación  
                   p.mb-4 No hay nada que genere más fastidio que una comunicación robótica, donde el cliente sabe que no obtiene respuesta de un ser humano sino de una máquina que trata a todos por igual. 
                   p La comunicación personalizada conecta aún más con el cliente, haciendo que este se sienta importante y reconocido con aquella marca en que ha invertido tiempo y dinero.
-                  br
-                  br
-                  br
+          
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img08.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 El feedback de los clientes 
                   p.mb-4 Prepararse para escuchar el feedback de los clientes. De  nada sirve una comunicación que no tiene retroalimentación. Por ello, escuchar las experiencias o sugerencias de los clientes es clave para la fidelización.
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75
+                figure.w-75.ms-5
                   img(src='@/assets/curso/tema4/img09.svg', alt='Texto que describa la imagen')
-              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center
-                div
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
                   h5 Pedir recomendaciones  
                   p.mb-4 Las reseñas que surgen de los clientes son una excelente carta de recomendación para la fidelización.           
+
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img20.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Marcar la diferencia 
+                  p.mb-4 La fidelidad del cliente depende mucho de la forma de hacer las cosas y transmitir un mensaje. El destacarse entre la competencia será otro factor que influya para retener a los clientes.
+            
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img21.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Crear pensado en los clientes
+                  p.mb-4 Crear productos o servicios pensados en los clientes recurrentes es promover un producto con un plus extra para los clientes fieles, aumenta la confianza y lealtad de ellos al recibir beneficios por hacer parte de una comunidad alrededor de la marca.
+
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img22.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Anticiparse a las necesidades
+                  p.mb-4 Al conocer a los clientes, es posible que una marca logre ver más allá de lo que estos buscan para encontrar lo que podrían necesitar, siendo otra oportunidad de lograr fidelización.
+
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img23.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Crear protocolos de seguimiento 
+                  p.mb-4 Con el propósito de hacer seguimiento, se debe desarrollar una guía para monitorear la actividad de los clientes y organizar interacciones precisas con ellos.
+
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img24.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Usar el email marketing 
+                  p.mb-4 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, etc.
+
+            .row
+              .col-md-3.d-flex.align-items-center.justify-content-center
+                figure.w-75.ms-5
+                  img(src='@/assets/curso/tema4/img25.svg', alt='Texto que describa la imagen')
+              .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
+                div.my-5.me-5
+                  h5 Base de datos de los clientes 
+                  p.mb-4 Tener una base de datos completa con la información de los clientes se constituye en una mina de oro en el marketing. Con el adecuado uso de estas, se puede llegar a los clientes potenciales de manera más efectiva.
+      
       .col-1 
 
     hr.mb-5
