@@ -67,6 +67,13 @@ export default {
           },
         ],
       },
+      {
+        nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Introducción al CRM',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {

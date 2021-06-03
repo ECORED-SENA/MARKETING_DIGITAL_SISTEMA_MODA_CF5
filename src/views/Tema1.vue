@@ -148,7 +148,7 @@
           div.text-center.mb-4
             strong Venta interna
           
-          p EEn este tipo de venta, también llamada inside sales, el vendedor conoce muy bien a su cliente potencial. De acuerdo con ese conocimiento es que ofrecerá el producto de la manera más adecuada. Además, permite el uso de herramientas de conectividad para evitar desplazamiento y aumentar la productividad.
+          p En este tipo de venta, también llamada inside sales, el vendedor conoce muy bien a su cliente potencial. De acuerdo con ese conocimiento es que ofrecerá el producto de la manera más adecuada. Además, permite el uso de herramientas de conectividad para evitar desplazamiento y aumentar la productividad.
 
       .col-3.d-flex
         div.bloque8.borde-redondo.p-3
