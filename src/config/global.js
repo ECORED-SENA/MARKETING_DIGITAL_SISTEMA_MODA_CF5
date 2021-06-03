@@ -74,6 +74,34 @@ export default {
         titulo: 'Introducción al CRM',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo:
+          'Fidelización y mantenimiento de servicio al cliente en las redes sociales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Implementación de bases de datos',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Generación de una base de datos',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo: 'Trazabilidad del servicio',
+            hash: 't_4_3',
+          },
+        ],
+      },
     ],
     subMenu: [
       {
