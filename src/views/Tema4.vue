@@ -23,8 +23,9 @@
           img(src="@/assets/curso/tema4/img02.svg", alt="Texto que describa la imagen")
 
     p.mb-4 Al hablar de lealtad, pasamos a entender la fidelización de clientes como la estrategia para retener a aquellos clientes asiduos de una marca que se conectan con lo que esta representa y, en sí, representan una fuente importante de ganancias. De esta manera, surgen los programas de fidelización, donde se ofrecen distintos incentivos y beneficios para que los clientes entiendan la importancia de seguir siendo parte de una determinada comunidad. 
-    p.mb-4 Aunque encontrar nuevos clientes para una empresa es esencial, tiene un mayor nivel de importancia el hecho de establecer relaciones duraderas con los clientes antiguos, que creyeron desde el principio y se convirtieron en los principales proveedores de beneficios para las empresas. En otras palabras, fidelizar es enamorar a los clientes que ya te conocen, haciendo esto día tras día. 
+    p.mb-5 Aunque encontrar nuevos clientes para una empresa es esencial, tiene un mayor nivel de importancia el hecho de establecer relaciones duraderas con los clientes antiguos, que creyeron desde el principio y se convirtieron en los principales proveedores de beneficios para las empresas. En otras palabras, fidelizar es enamorar a los clientes que ya te conocen, haciendo esto día tras día.
     
+    h5.text-center Según el portal <i>web</i> Creatiburón (2016), estos son algunos consejos para fidelizar clientes:
     .row.mb-4
       .col-1
       .col-10
@@ -32,7 +33,7 @@
           SlyderA
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img04.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -41,7 +42,7 @@
             
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img05.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -50,16 +51,16 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img06.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
                   h5 Mantener el contacto  
-                  p Entender que en algún momento se necesitará de los clientes como ellos de la marca. No debes perderlos de vista.
+                  p Entender que en algún momento se necesitará de los clientes, como ellos de la marca. No debes perderlos de vista.
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img07.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -69,7 +70,7 @@
           
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img08.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -78,7 +79,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img09.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -87,7 +88,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img20.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -96,7 +97,7 @@
             
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img21.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -105,7 +106,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img22.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -114,7 +115,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img23.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -123,7 +124,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img24.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -132,7 +133,7 @@
 
             .row
               .col-md-3.d-flex.align-items-center.justify-content-center
-                figure.w-75.ms-5
+                figure.w-90.ms-5
                   img(src='@/assets/curso/tema4/img25.svg', alt='Texto que describa la imagen')
               .col-md-9.mb-4.mb-md-0.d-flex.align-items-center.py-5
                 div.my-5.me-5
@@ -160,7 +161,7 @@
     hr.mb-5
 
     #t_4_2.titulo-segundo
-      .h4 4.2 Implementación de bases de datos
+      .h4 4.2 Generación de una bases de datos
 
     p.mb-4 La base de datos se construye desde el primer acercamiento del cliente con los productos o servicios de una empresa y es un proceso que se lleva a cabo en el tiempo, para establecer relaciones a largo plazo que conecten ambas partes desde las acciones del emisor con las reacciones del receptor, en este caso, los clientes. Para generar una base de datos, se deben tener en cuenta las siguientes fases (García y Gutiérrez, 2013):
 

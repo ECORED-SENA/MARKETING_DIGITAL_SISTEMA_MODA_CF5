@@ -25,14 +25,6 @@
       .col-1
       .col-10.tarjeta.tarjeta--azul.p-4.mb-5
         SlyderA
-          .row
-            .col-md-6.d-flex.align-items-center.justify-content-center
-              figure.w-50
-                img(src='@/assets/curso/tema2/img02.svg', alt='Texto que describa la imagen')              
-            .col-md-6.mb-4.mb-md-0.d-flex.align-items-center
-              div.me-5
-                h5 Estructurar la noticia  
-                p.me-3 Organizar el texto en titulares y bloques, que le den contexto al texto redactado.
 
           .row
             .col-md-6.d-flex.align-items-center.justify-content-center
@@ -42,7 +34,16 @@
               div.me-5
                 h5 Concisión 
                 p.me-3 Hacer uso de frases breves y párrafos cortos con toda la fuerza de lo que se desea comunicar.
-
+          
+          .row
+            .col-md-6.d-flex.align-items-center.justify-content-center
+              figure.w-50
+                img(src='@/assets/curso/tema2/img02.svg', alt='Texto que describa la imagen')              
+            .col-md-6.mb-4.mb-md-0.d-flex.align-items-center
+              div.me-5
+                h5 Estructurar la noticia  
+                p.me-3 Organizar el texto en titulares y bloques, que le den contexto al texto redactado.
+          
           .row
             .col-md-6.d-flex.align-items-center.justify-content-center
               figure.w-50
@@ -50,7 +51,7 @@
             .col-md-6.mb-4.mb-md-0.d-flex.align-items-center
               div.me-5
                 h5 La información en función de cómo la leemos
-                p.me-3 Entender qué tipo de usuarios va a leer el texto y redactar en función de ellos.
+                p.me-3 Entender qué tipo de usuarios van a leer el texto y redactar en función de ellos.
 
           .row
             .col-md-6.d-flex.align-items-center.justify-content-center
@@ -91,6 +92,8 @@
       .col-1
 
       p.mb-4 Los entornos digitales suponen el uso de nuevos dispositivos para visualizar contenidos. De esta manera, es importante tener en cuenta el público que consume los contenidos redactados en la web, además del canal utilizado, ya sea un teléfono celular, tableta o computador, y el medio para el cual se redacta, como un sitio web, una publicación para una red social o un artículo de blog. Al ser internet un universo bastante amplio, con infinidad de contenidos similares, debe haber un factor diferenciador que destaque entre los demás. De acuerdo con el portal web IMF Business School (2020), se proponen tres pasos para generar contenido diferenciador. Ellos son: 
+
+      h5 Contenido diferenciador
 
       div.mb-4   
         .row
@@ -158,7 +161,7 @@
           .col-12.fondo-morado-oscuro.texto-blanco.borde-redondo.py-2
             h5.m-0.text-center En la gráfica siguiente se puede encontrar más información sobre el plan de medios digitales.
         .col-1
-      .row.mb-4
+      .row.mb-5
         .col-3
         .col-6.d-flex.justify-content-center      
           figure.w-100
@@ -180,19 +183,19 @@
         .col-1
         .col-5.pe-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img19.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Investigar
                 p Análisis del entorno en que se desenvuelve la marca, así como su público objetivo y los medios que este consume, además de todos los elementos que cada marca establece.
         .col-5.ps-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img20.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Plantear objetivos
                 p Se caracteriza por definir qué se quiere obtener con el plan de medios. De acuerdo con los intereses de la marca, se determinan los objetivos.
@@ -202,19 +205,19 @@
         .col-1
         .col-5.pe-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img21.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Determinar público o target 
                 p Reconocer qué tipo de clientes se quiere atraer.
         .col-5.ps-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Pensar la estrategia  
                 p De acuerdo con los recursos y siguiendo la consecución de los objetivos propuestos, se elige la estrategia que mejor se adapte al plan de medios.
@@ -224,19 +227,19 @@
         .col-1
         .col-5.pe-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img23.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Actuar
                 p Momento de llevar a cabo las actividades definidas según la estrategia elegida, con las herramientas que se consideren adecuadas.
         .col-5.ps-4.d-flex
           .row.bloque9.p-3
-            .col-2.d-flex.align-items-center
+            .col-3.d-flex.align-items-center
               figure
                 img(src='@/assets/curso/tema2/img24.svg', alt='Texto que describa la imagen')
-            .col-10.d-flex.align-items-center
+            .col-9.d-flex.align-items-center
               .div
                 h5 Definir tiempo 
                 p El plan de medios debe ser adaptado a un tiempo, de acuerdo con la investigación previa, los objetivos propuestos, el público y la estrategia definidos.
@@ -246,10 +249,10 @@
         .col-1
         .col-10.pe-4.d-flex
           .row.bloque9.p-3
-            .col-1.d-flex.align-items-center
-              figure
+            .col-2.d-flex.align-items-center
+              figure.w-85
                 img(src='@/assets/curso/tema2/img25.svg', alt='Texto que describa la imagen')
-            .col-11.d-flex.align-items-center
+            .col-10.d-flex.align-items-center
               .div
                 h5 Evaluar
                 p Se identifica si el plan logró los resultados esperados, se generan los informes y se determina qué aspectos se deben mejorar.

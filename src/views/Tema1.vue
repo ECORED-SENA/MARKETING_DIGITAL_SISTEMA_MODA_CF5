@@ -60,7 +60,7 @@
           img(src="@/assets/curso/tema1/img04.svg", alt="Texto que describa la imagen")
       .col-1
 
-    .row.mb-4
+    .row.mb-5
       .col-1
       .col-3
         figure.w-90
@@ -85,36 +85,39 @@
     .row
       .col-2
       .col-4.ps-0
-        figure.w-100
+        figure.w-100.mb-4
           img(src="@/assets/curso/tema1/img06.svg", alt="Texto que describa la imagen")
+        h5.text-center Cliente satisfecho
       .col-4.pe-0
-        figure.w-100
+        figure.w-100.mb-4
           img(src="@/assets/curso/tema1/img07.svg", alt="Texto que describa la imagen")
+        h5.text-center Beneficios para la empresa
       .col-2
     .row.mb-4
       .col-2
       .col-8.p-0.text-pequeno
         br
-        strong Nota.
+        strong.me-1 Nota.
         | Tomado de Ariño (2018).
       .col-2
     p.mb-4 Luego de su observación, <b>¿qué mensaje deja esta figura?</b> Se puede concluir que hacer una buena venta, desde los protocolos establecidos por la empresa, contribuye a maximizar los beneficios que obtiene la empresa debido a sus ventas de bienes o servicios. En este sentido, es importante que usted identifique el tipo de ventas, para que pueda ayudar a la organización a conseguir sus objetivos. 
+    
     hr.mb-5
     
     h5 Tipos de venta
-    p Según el portal web RD Station, las ventas se dividen en dos grandes grupos que se definen según el medio utilizado para llevar a cabo el proceso. Así: 
+    p.mb-4 Según el portal web RD Station, las ventas se dividen en dos grandes grupos que se definen según el medio utilizado para llevar a cabo el proceso. Así: 
 
     .row.mb-4
       .col-1
       .col-5.d-flex
         div.bloque7.borde-redondo.p-3
           div.text-center.mb-4
-            strong Ventas simples/ self-service
+            strong Ventas simples / self-service
           div.d-flex.justify-content-center
             figure.w-75.mb-4
               img(src="@/assets/curso/tema1/img08.svg", alt="Texto que describa la imagen")
           p Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial, o lead, va por su cuenta a adquirir el producto o servicio. Aquí se puede mencionar el comercio electrónico o el retail. 
-          | <br>Ejemplos: ropa, alimentos, elementos de aseo, etc.
+          | <br><b>Ejemplos:</b> ropa, alimentos, elementos de aseo, etc.
 
       .col-5.d-flex
         div.bloque7.borde-redondo.p-3
@@ -124,10 +127,10 @@
             figure.w-75.mb-4
               img(src="@/assets/curso/tema1/img09.svg", alt="Texto que describa la imagen")
           p Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial, o lead, donde el primero sirve como consultor desde el primer acercamiento para la posible venta. 
-          | <br>Ejemplos: venta de inmuebles, vehículos, software, etc. 
+          | <br><b>Ejemplos:</b> venta de inmuebles, vehículos, software, etc. 
       .col-1
 
-    p.mb-4  De acuerdo con las ventas simples y complejas antes mencionadas, y teniendo en cuenta los diferentes canales utilizados y diversos factores, según Muente (2018), se determinan los principales tipos de venta. Se recomienda revisar la siguiente información para poder adoptar la que pueda servir en un contexto laboral específico. ¿Cuál seleccionaría?   
+    p.mb-5  De acuerdo con las ventas simples y complejas antes mencionadas, y teniendo en cuenta los diferentes canales utilizados y diversos factores, según Muente (2018), se determinan los principales tipos de venta. Se recomienda revisar la siguiente información para poder adoptar la que pueda servir en un contexto laboral específico. ¿Cuál seleccionaría?   
 
     .row.mb-5 
       .col-3.d-flex
@@ -169,7 +172,7 @@
             strong Ventas en línea
           
           p Este tipo de ventas también se podrían llamar ventas por Internet o ventas online, las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
-    hr.mb-4
+    hr.mb-5
 
     #t_1_1.titulo-segundo
       .h4 1.1 Proceso de venta 
@@ -207,7 +210,7 @@
           .row(numero="5" titulo="Argumentación y manejo de objeciones ")
             .col-md-10.mb-4.mb-md-0.d-flex.align-items-center
               div
-                p.mb-1.text-small En este momento se da conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la técnica AIDA (Ariño, 2018): 
+                p.mb-1.text-small En este momento se da a conocer toda la información que sustente el porqué el cliente debe adquirir determinado producto o servicio. En este punto se hace necesario mencionar la técnica AIDA (Ariño, 2018): 
                 ul.lista-ul.text-small
                   li 
                     i.fas.fa-angle-right
@@ -224,7 +227,7 @@
             .col-md-2.d-flex.justify-content-center.align-items-center
               figure.w-75
                 img(src='@/assets/curso/tema1/img31.svg', alt='Texto que describa la imagen')    
-          .row(numero="6" titulo="Cierre venta ")
+          .row(numero="6" titulo="Cierre de venta ")
             .col-md-10.mb-4.mb-md-0.d-flex.align-items-center
               p.text-small Al lograr que el cliente presente interés en el producto, es como se realiza el seguimiento para que efectivamente se lleve a cabo la venta.
             .col-md-2.d-flex.justify-content-center.align-items-center
@@ -250,7 +253,7 @@
       .row.mb-4
         .col-12.fondo-color-secundario.texto-blanco.borde-redondo.py-2
           h4.m-0.d-inline-block Venta offline:
-          p.d-inline-block.ms-1 son aquellos que no operan con un sistema web.
+          p.d-inline-block.ms-2 son aquellos que no operan con un sistema web.
       .row.mb-4
         .col-4.d-flex.justify-content-end
           figure.w-75.mb-4
@@ -302,7 +305,7 @@
         p Según Contreras (2019), el social selling se define como el uso de las redes sociales para llevar a cabo una venta, al encontrar e interactuar con los prospectos comerciales. Esta estrategia ha surgido por el incremento en el uso de las redes sociales, las cuales permiten recopilar datos de los clientes potenciales, además de interactuar con ellos de manera personalizada, conociendo las necesidades de los usuarios, y, de esta manera, buscar el momento preciso para dar a entender que se puede ofrecer una solución a dicha necesidad. Al hacer uso del social selling se obtiene una ventaja significativa frente a las estrategias tradicionales, con el enfoque en el conocimiento del cliente, adaptando la marca y tono de comunicación a sus gustos, generando conexiones duraderas que vayan más allá de una venta y se conviertan en una experiencia de largo alcance.
 
     .row.mb-4
-      .col-12.fondo-color-secundario.texto-blanco.borde-redondo.py-2
+      .col-12.bloque11.texto-blanco.borde-redondo.py-2
         h5.m-0.text-center Para hacer uso del social selling, estos son los pasos a tener presente y que pueden ser útiles en el contexto profesional:
     .row.mb-4      
       .col-4.d-flex
@@ -317,7 +320,7 @@
       .col-4.d-flex
         div.bloque7.borde-redondo.p-3
           div.text-center.p-2.mx-4.fondo-color-secundario.borde-redondo
-            h5.m-0 Primer paso
+            h5.m-0 Segundo paso
           div.d-flex.justify-content-center
             figure
               img(src="@/assets/curso/tema1/img16.svg", alt="Texto que describa la imagen")
@@ -326,7 +329,7 @@
       .col-4.d-flex
         div.bloque7.borde-redondo.p-3
           div.text-center.p-2.mx-4.fondo-color-acento-botones.borde-redondo
-            h5.m-0 Primer paso
+            h5.m-0 Tercer paso
           div.d-flex.justify-content-center
             figure
               img(src="@/assets/curso/tema1/img17.svg", alt="Texto que describa la imagen")

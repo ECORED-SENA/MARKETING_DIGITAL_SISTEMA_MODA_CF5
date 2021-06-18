@@ -9,7 +9,7 @@
           i.fas.fa-info
       .h3 Introducción
 
-    p.mb-4 El término ‘venta’ históricamente hace referencia a todas las actividades para proveer a un cliente u organización de un bien o servicio bajo un precio estipulado; es decir, hay un intercambio de dinero. Sin embargo, en la actualidad, debido a la cantidad de negocios que ofrecen los mismos productos y servicios, la venta se ha connotado desde propuestas de valor diferenciadoras que hacen que los modelos de negocios sean apetecidos por los clientes. 
+    p.mb-4 El término <b>‘venta’</b> históricamente hace referencia a todas las actividades para proveer a un cliente u organización de un bien o servicio bajo un precio estipulado; es decir, hay un intercambio de dinero. Sin embargo, en la actualidad, debido a la cantidad de negocios que ofrecen los mismos productos y servicios, la venta se ha connotado desde propuestas de valor diferenciadoras que hacen que los modelos de negocios sean apetecidos por los clientes. 
     p.mb-4 Las ventas suponen un mecanismo de continuidad de los negocios y ganancia económica, desde el punto de vista del vendedor cuando lo ofrece a un público definido que, de una u otra forma, satisface sus necesidades y deseos.
     p.mb-4 Por lo anterior, el presente componente de formación surge en el marco de las ventas para poder tener la capacidad de establecer e interactuar con los clientes potenciales según sus necesidades y el medio definido para llevar a cabo la estrategia de venta. En este sentido, se sugiere identificar, en el siguiente recurso de aprendizaje, el contexto de formación y algunos aspectos para iniciar y finalizar este momento de aprendizaje. Bienvenido. 
 
@@ -22,7 +22,7 @@
           .h5 ¿Cómo surge este curso?
           p Desde la necesidad de la interacción con los clientes que lleve a su fidelización y mantener las ventas de la empresa.
       .col-4.d-flex
-        .cajon.color-acento-contenido.p-4
+        .cajon.color-acento-contenido.bloque10.p-4
           .h5 ¿Cuál es objeto de aprendizaje?
           p Una vez finalizado este componente de formación se espera que usted pueda:
           p Prestar servicio al cliente acorde a unos lineamientos. 
@@ -46,11 +46,11 @@
         p Revisar las notificaciones del curso constantemente.
       .col-3.d-flex     
         .lista-ol--cuadro__vineta.fondo-color-acento-contenido.texto-negro.mt-2
-          span b
+          span c
         p Revisar las notificaciones del curso constantemente.
       .col-3.d-flex     
         .lista-ol--cuadro__vineta.fondo-color-acento-botones.texto-blanco.mt-2
-          span b
+          span d
         p Entregar las evidencias esperadas durante este componente de formación. En caso de alguna inquietud no dude en escribirnos. 
   
     p Ahora es tiempo de apropiarse de la información necesaria para poder alcanzar los resultados de aprendizaje esperados. Adelante. 

@@ -145,55 +145,37 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        nombre: 'María Camila Álvarez Trujillo',
+        cargo: 'Contratista diseño Curricular',
+        regional: 'Sena Regional Antioquia',
       },
       {
-        nombre: 'Javier Enrique Santana',
-        cargo: 'Experto temático',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
+        nombre: 'Liliana Ceballos Gutiérrez',
+        cargo: 'Contratista diseño Curricular',
+        regional: 'Sena Regional Antioquia',
       },
       {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
+        nombre: 'Cristian Metaute Medina',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La granja',
+        regional: 'Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -205,28 +187,51 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Oscar Julián Marquez Sanabria',
+        cargo: 'Diseño web',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: [
+          'Adriana Marcela Suárez Eljure',
+          'Ángela María Maldonado Jaime',
+          'Carlos Eduardo Garavito Parada',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Jessica Moreno Realpe',
+          'Lina Marcela Pérez Manchego',
+          'María Carolina Tamayo López',
+          'Ricardo Vásquez Arroyave',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Edgar Mauricio Cortes García',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
@@ -234,134 +239,126 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Ariño, J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. ECOE.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7414',
+    },
+    {
+      referencia:
+        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5286',
+    },
+    {
+      referencia:
+        'Contreras, N. (Marzo 12 de 2019). Social selling: La guía de ventas en redes sociales. Hootsuite.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/#:%7E:text=El%20social%20selling%20es%20el,significativas%20con%20los%20clientes%20potenciales',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Creatiburón. (Octubre 10 de 2016). Fidelización de clientes: te doy la receta para conseguir clientes leales. Creatiburón: Diseño web. Diseño gráfico. Marketing online.',
+      link: 'https://www.creatiburon.com/fidelizacion-de-clientes/ ',
+    },
+    {
+      referencia:
+        'García, B. y Gutiérrez, A. (2013). Marketing de fidelización (1st ed.). Ediciones Pirámide.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/114711',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Hotmart. (Abril 28 de 2021). Canales de venta: ¿cuáles son los más eficientes hoy en día?',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://blog.hotmart.com/es/canales-de-venta/#:%7E:text=Los%20canales%20de%20venta%20son,con%20el%20negocio%20que%20ofreces',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'IMF Business School. (Junio 22 de 2020). Redacción en medios digitales: El reto para los Marketers.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://blogs.imf-formacion.com/blog/marketing/redaccion-medios-digitales-marketers/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Leadera Marketing Solutions. (Octubre 19 de 2018). Sistemas para mantener la trazabilidad de leads.',
+      link: 'https://www.leaderasolutions.com/blog/trazabilidad-de-leads',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Muente, G. (Mayo 22 de 2018). Tipos de ventas: ¿cuáles existen y en qué se distinguen? Rock Content - ES.',
+      link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
+    },
+    {
+      referencia:
+        'Pastrana, C. (Febrero 10 de 2014). Cómo escribir en Internet: técnicas de redacción periodística. IEBS.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.iebschool.com/blog/redaccion-medios-online-comunicacion-digital/',
+    },
+    {
+      referencia:
+        'RD Station. (n.d.). Ventas: estrategias, técnicas y todo lo que necesitas saber.',
+      link: 'https://www.rdstation.com/mx/ventas/',
+    },
+    {
+      referencia:
+        'Soria, M. (2016). Plan de medios de comunicación e Internet (1ª ed.). CEP.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51054?page=43 ',
+    },
+    {
+      referencia:
+        'Tenebit. (Enero 7 de 2020). 3 Pilares para implementar un CRM exitoso en tu empresa.',
+      link:
+        'https://www.tenebit.com.co/conoce-los-3-pilares-fundamentales-al-momento-de-implementar-una-estrategia-crm-exitosa/',
+    },
+    {
+      referencia:
+        'Zendesk. (Septiembre 29 de 2020). Conoce las 7 etapas del proceso de ventas.',
+      link: 'https://www.zendesk.com.mx/blog/etapas-proceso-ventas/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'E-commerce',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Método de compra y venta de productos a través de entornos digitales.',
     },
     {
-      termino: 'Suftware',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Fidelización',
+      significado: 'Proceso de generar lealtad y confianza.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'Lead',
+      significado: 'Cliente potencial.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Social selling',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Uso de las redes sociales para atraer a los prospectos comerciales de una marca, con el fin de generar ventas con públicos objetivos.',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Target',
+      significado: 'Público objetivo determinado.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Polese, L. (Mayo 13 de 2015). 9 estrategias vitales para incrementar las ventas en redes sociales. audiense:recursos.',
+      tipo: 'Artículo web',
+      link:
+        'https://recursos.audiense.com/blog/9-estrategias-vitales-para-incrementar-las-ventas-en-redes-sociales',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'WEBPOSITER. (Agosto 4 de 2017). Redacción SEO 📝10 Técnicas para Optimizar tu COPY 📗 [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hki9G7bp1Zk&ab_channel=WEBPOSITER',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Cyberclick • Marketing Digital. (Agosto 11 de 2020). ¿Qué es un CRM y para qué sirve? Beneficios + Ejemplos [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link:
+        'https://www.youtube.com/watch?v=Ztr24-JBL2s&ab_channel=Cyberclick%E2%80%A2MarketingDigital',
     },
   ],
 }
