@@ -47,7 +47,7 @@
       .col-3.d-flex     
         .lista-ol--cuadro__vineta.fondo-color-acento-contenido.texto-negro.mt-2
           span c
-        p Revisar las notificaciones del curso constantemente.
+        p Participar en los foros y actividades sugeridas por el instructor.
       .col-3.d-flex     
         .lista-ol--cuadro__vineta.fondo-color-acento-botones.texto-blanco.mt-2
           span d

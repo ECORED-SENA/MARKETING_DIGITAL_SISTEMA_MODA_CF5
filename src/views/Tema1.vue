@@ -19,7 +19,7 @@
               .bloque-texto-b.color-secundario.bloque2
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left.texto-color-secundario
-                  span.h4.mb-0 Vender es satisfacer los deseos y/o necesidades de un cliente por medio de un bien o servicio a cambio de un beneficio
+                  span.h4.mb-0 Vender es satisfacer los deseos y/o necesidades de un cliente por medio de un bien o servicio a cambio de un beneficio.
                   i.fas.fa-quote-right.texto-color-secundario
             .col-lg-5
               .bloque-texto-a__texto.p-3
@@ -269,7 +269,7 @@
       .row.mb-4
         .col-12.fondo-color-primario.texto-blanco.borde-redondo.py-2
           h4.m-0.d-inline-block Venta online: 
-          p.d-inline-block.ms-1 son aquellos que se soportan en la Internet.
+          p.d-inline-block.ms-2 son aquellos que se soportan en la Internet.
       .row.mb-4
         .col-4.d-flex.justify-content-end
           figure.w-75.mb-4

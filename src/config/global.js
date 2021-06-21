@@ -152,6 +152,7 @@ export default {
       {
         nombre: 'María Camila Álvarez Trujillo',
         cargo: 'Contratista diseño Curricular',
+        centro: 'Centro de Formación en Diseño, Confección y Moda',
         regional: 'Sena Regional Antioquia',
       },
       {
@@ -167,7 +168,7 @@ export default {
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisora metodológica y pedagógica',
+        cargo: 'Revisor metodológico y pedagógico',
         centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
       },
@@ -239,13 +240,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariño, J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. ECOE.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7414',
+        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5286',
     },
     {
       referencia:
-        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5286',
+        'Ariño, J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. ECOE.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7414',
     },
     {
       referencia:

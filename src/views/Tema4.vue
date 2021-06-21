@@ -161,7 +161,7 @@
     hr.mb-5
 
     #t_4_2.titulo-segundo
-      .h4 4.2 Generación de una bases de datos
+      .h4 4.2 Generación de una base de datos
 
     p.mb-4 La base de datos se construye desde el primer acercamiento del cliente con los productos o servicios de una empresa y es un proceso que se lleva a cabo en el tiempo, para establecer relaciones a largo plazo que conecten ambas partes desde las acciones del emisor con las reacciones del receptor, en este caso, los clientes. Para generar una base de datos, se deben tener en cuenta las siguientes fases (García y Gutiérrez, 2013):
 
