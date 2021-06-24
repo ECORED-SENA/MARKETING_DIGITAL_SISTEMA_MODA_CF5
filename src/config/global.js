@@ -153,12 +153,13 @@ export default {
         nombre: 'María Camila Álvarez Trujillo',
         cargo: 'Contratista diseño Curricular',
         centro: 'Centro de Formación en Diseño, Confección y Moda',
-        regional: 'Sena Regional Antioquia',
+        regional: 'Regional Antioquia',
       },
       {
         nombre: 'Liliana Ceballos Gutiérrez',
         cargo: 'Contratista diseño Curricular',
-        regional: 'Sena Regional Antioquia',
+        centro: 'Centro de Formación en Diseño, Confección y Moda',
+        regional: 'Regional Antioquia',
       },
       {
         nombre: 'Cristian Metaute Medina',
@@ -240,13 +241,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5286',
+        'Ariño, J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. ECOE.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7414',
     },
     {
       referencia:
-        'Ariño, J. (2018). Ventas para emprendedores: Todo lo que necesitas saber. ECOE.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7414',
+        'Ariza, F. y Ariza, J. (2014). Comunicación empresarial y atención al cliente. McGraw-Hill Interamericana.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5286',
     },
     {
       referencia:
