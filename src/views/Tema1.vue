@@ -76,11 +76,12 @@
       .col-8.fondo-color-secundario.texto-blanco.borde-redondo.py-2
         h5.m-0.text-center En las siguientes figuras se puede analizar lo que pasa
       .col-2    
-    .row
+    .row.mb-4
       .col-2
       .col-8.p-0
         br
         strong Ventas para emprendedores
+        br
       .col-2
     .row
       .col-2
