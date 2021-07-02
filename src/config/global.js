@@ -151,13 +151,13 @@ export default {
       },
       {
         nombre: 'María Camila Álvarez Trujillo',
-        cargo: 'Contratista diseño Curricular',
+        cargo: 'Contratista diseño curricular',
         centro: 'Centro de Formación en Diseño, Confección y Moda',
         regional: 'Regional Antioquia',
       },
       {
         nombre: 'Liliana Ceballos Gutiérrez',
-        cargo: 'Contratista diseño Curricular',
+        cargo: 'Contratista diseño curricular',
         centro: 'Centro de Formación en Diseño, Confección y Moda',
         regional: 'Regional Antioquia',
       },
