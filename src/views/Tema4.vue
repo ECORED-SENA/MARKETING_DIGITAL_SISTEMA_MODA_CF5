@@ -224,24 +224,28 @@
 
     #t_4_3.titulo-segundo
       .h4 4.3  Trazabilidad del servicio  
-      p.mb-4 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera Marketing Solutions (2018), el lead puede ubicarse en uno de los siguientes escenarios:
 
-      .row.mb-4
-        .col-3.d-flex.align-items-center.justify-content-center
-          figure.w-100
-            img(src='@/assets/curso/tema4/img16.svg', alt='Texto que describa la imagen')  
-        .col-3.d-flex.align-items-center.justify-content-center
-          figure.w-100
-            img(src='@/assets/curso/tema4/img17.svg', alt='Texto que describa la imagen')  
-        .col-3.d-flex.align-items-center.justify-content-center
-          figure.w-100
-            img(src='@/assets/curso/tema4/img18.svg', alt='Texto que describa la imagen')  
-        .col-3.d-flex.align-items-center.justify-content-center
-          figure.w-100
-            img(src='@/assets/curso/tema4/img19.svg', alt='Texto que describa la imagen')  
+    .video.mb-5    
+      iframe(iframe width="1255" height="706" src="https://www.youtube.com/embed/GDK-3pt7Pyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+      
+    p.mb-4 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera Marketing Solutions (2018), el lead puede ubicarse en uno de los siguientes escenarios:
 
-      p.mb-4 Junto a lo anterior, también se debe determinar el canal más adecuado para que cada lead llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los leads de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el software que mejor se acomode a las circunstancias de la empresa.
-      p.mb-4 Hasta aquí se ha llegado en esta experiencia de aprendizaje que, más allá de brindar información, espera que haya una apropiación de ella para ser competentes y alcanzar los resultados de aprendizaje esperados. Es necesario mantener una actitud de curiosidad y aprendizaje a lo largo de la vida para ser un excelente colaborador o empresario en el marco del marketing digital. 
+    .row.mb-4
+      .col-3.d-flex.align-items-center.justify-content-center
+        figure.w-100
+          img(src='@/assets/curso/tema4/img16.svg', alt='Texto que describa la imagen')  
+      .col-3.d-flex.align-items-center.justify-content-center
+        figure.w-100
+          img(src='@/assets/curso/tema4/img17.svg', alt='Texto que describa la imagen')  
+      .col-3.d-flex.align-items-center.justify-content-center
+        figure.w-100
+          img(src='@/assets/curso/tema4/img18.svg', alt='Texto que describa la imagen')  
+      .col-3.d-flex.align-items-center.justify-content-center
+        figure.w-100
+          img(src='@/assets/curso/tema4/img19.svg', alt='Texto que describa la imagen')  
+
+    p.mb-4 Junto a lo anterior, también se debe determinar el canal más adecuado para que cada lead llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los leads de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el software que mejor se acomode a las circunstancias de la empresa.
+    p.mb-4 Hasta aquí se ha llegado en esta experiencia de aprendizaje que, más allá de brindar información, espera que haya una apropiación de ella para ser competentes y alcanzar los resultados de aprendizaje esperados. Es necesario mantener una actitud de curiosidad y aprendizaje a lo largo de la vida para ser un excelente colaborador o empresario en el marco del marketing digital. 
 
 </template>
 

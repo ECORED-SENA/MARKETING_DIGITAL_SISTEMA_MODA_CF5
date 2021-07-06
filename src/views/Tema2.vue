@@ -11,7 +11,7 @@
     p.mb-4 La comunicación asertiva se enfoca en expresar claramente un mensaje, de manera simple y oportuna, teniendo presente la inteligencia emocional para saber cómo responder de la mejor manera ante cualquier situación que se puede presentar. Con los clientes es muy importante brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar. Esto genera confianza para acercarse a la marca o empresa. En el siguiente recurso educativo se puede hallar una información que se ha seleccionado para poder practicar en contexto. Adelante.
 
     .video.mb-5
-      iframe(width="1255" height="706" src="https://www.youtube.com/embed/fdZTopMiBUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+      iframe(iframe width="1255" height="706" src="https://www.youtube.com/embed/VXQJ7DGmkio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     
     hr.mb-5
 
