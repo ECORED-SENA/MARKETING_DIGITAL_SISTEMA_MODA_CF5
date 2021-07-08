@@ -5,9 +5,9 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3
+        span
           i.fas.fa-info
-      .h3 Introducción
+      h1 Introducción
 
     p.mb-4 El término <b>‘venta’</b> históricamente hace referencia a todas las actividades para proveer a un cliente u organización de un bien o servicio bajo un precio estipulado; es decir, hay un intercambio de dinero. Sin embargo, en la actualidad, debido a la cantidad de negocios que ofrecen los mismos productos y servicios, la venta se ha connotado desde propuestas de valor diferenciadoras que hacen que los modelos de negocios sean apetecidos por los clientes. 
     p.mb-4 Las ventas suponen un mecanismo de continuidad de los negocios y ganancia económica, desde el punto de vista del vendedor cuando lo ofrece a un público definido que, de una u otra forma, satisface sus necesidades y deseos.

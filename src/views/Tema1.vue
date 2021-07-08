@@ -5,8 +5,8 @@
     
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 Qué es una venta y tipos de venta
+        span 1
+      h1 Qué es una venta y tipos de venta
 
     p.mb-4 Cuando surge una idea de negocio de la que parte una empresa como tal, el objetivo deseado es la generación de valor a través de un proceso de promoción y venta; pero no es tan fácil como lo parece. El hecho de vender se considera un arte por el proceso que conlleva. Por ello, es importante puntualizar qué es vender, según Ariño (2018).
 

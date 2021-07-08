@@ -5,8 +5,8 @@
     
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Comunicación asertiva con clientes
+        span 2
+      h1 Comunicación asertiva con clientes
 
     p.mb-4 La comunicación asertiva se enfoca en expresar claramente un mensaje, de manera simple y oportuna, teniendo presente la inteligencia emocional para saber cómo responder de la mejor manera ante cualquier situación que se puede presentar. Con los clientes es muy importante brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar. Esto genera confianza para acercarse a la marca o empresa. En el siguiente recurso educativo se puede hallar una información que se ha seleccionado para poder practicar en contexto. Adelante.
 

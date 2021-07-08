@@ -5,8 +5,8 @@
     
     .titulo-principal
       .titulo-principal__numero
-        .h3 3
-      .h3 Introducción al CRM
+        span 3
+      h1 Introducción al CRM
 
     p.mb-4 El CRM o Customer Relationship Management, que puede traducirse al español como ‘gestión de las relaciones con los clientes’, se ha convertido en una increíble herramienta para las ventas haciendo uso de las nuevas tecnologías. Según el portal web RD Station, un CRM es un proceso de negocio optimizado para mejorar el desempeño de quien la usa; es decir, el CRM combina tanto procesos tecnológicos como talento humano e información, en su estrategia para lograr una mayor organización en el logro de ventas y conexión con los clientes.
     p.mb-4 El CRM está muy enfocado al marketing relacional y se basa en construir una conexión cercana entre el cliente y las empresas, buscando el bienestar de aquel, para desarrollar mayor fidelización que genere como resultado un beneficio económico. Entre las ventajas significativas del CRM, se destaca la automatización de los procesos, que optimiza los recursos, el tiempo, la gestión de datos; y personaliza los servicios para brindar una mejor experiencia al cliente. Esto significa mayores ventas y lealtad hacia la empresa. Esta herramienta explica que, a mayor felicidad del cliente, más ganancias, lo que supone conocer a dicho cliente.

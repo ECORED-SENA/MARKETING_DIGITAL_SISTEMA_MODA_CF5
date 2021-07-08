@@ -5,8 +5,8 @@
     
     .titulo-principal
       .titulo-principal__numero
-        .h3 4
-      .h3 Fidelización y mantenimiento de servicio al cliente en las redes sociales
+        span 4
+      h1 Fidelización y mantenimiento de servicio al cliente en las redes sociales
 
     p.mb-4 Uno de los grandes objetivos de las redes sociales es generar comunidades vivas, que interactúen entre sí, alrededor de un tema en común. Lo que espera una marca o empresa es que esa comunidad que se ha creado mantenga un alto nivel de lealtad, lo cual se logra con el mantenimiento de intereses en común que conserven el sentido que generó la atracción de los usuarios.
 
