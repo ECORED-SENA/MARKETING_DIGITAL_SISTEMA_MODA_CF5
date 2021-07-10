@@ -1,2 +1,1 @@
-module.exports =
-  'Servicio y atención al cliente                                   '
+module.exports = 'Interacción con clientes para el proceso de venta'
